@@ -22,6 +22,10 @@ div {
   border-top-color: #ff0;
 }
 
+#green {
+  border-top-color: #00bc3f;
+}
+
 #blue {
   border-top-color: #06f;
 }
@@ -34,6 +38,4 @@ div {
   border-top-color: #d300c9;
 }
 
-#green {
-  border-top-color: #f00;
-}
+
